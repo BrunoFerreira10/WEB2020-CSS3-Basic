@@ -1,0 +1,60 @@
+body{
+	background-image: url('../imagens/fundo.png');
+	width: 50%;
+}
+
+a{
+	font-family: "Arial", sans-serif;
+	color: #555857;
+	font-weight: bold;
+	text-decoration: none;	
+	vertical-align: middle;	
+}
+
+p{
+	font-family: "Arial", sans-serif;
+}
+
+.subtitulo{
+	font-family: "Arial", sans-serif;
+	color: #828373;
+	font-size: 1.5em;
+}
+
+.photos{
+	border: solid 10px #D3D5BD ;
+}
+
+#header{
+	margin: 0px;
+}
+
+#menu{
+	height: 70px;
+	background: #D3D5BD;	
+	margin: 0px;
+	vertical-align: middle;
+}
+
+#photo-capa{
+	width: 100%;
+}
+
+#contents{
+	background: #FCFCEC;
+	padding: 10px;
+	margin: 0px;
+}
+
+#footer{
+	text-align: center;
+	font-weight: bold;
+	font-family: "Arial", sans-serif;
+	margin-top: 20px;
+}
+
+#contactcard{
+	font-family: "Arial", sans-serif;
+}
+
+
